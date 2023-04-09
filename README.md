@@ -1,4 +1,4 @@
 # Map
 
-Deploy Link
+Deployed Link
 https://muzaffar-map.netlify.app/
